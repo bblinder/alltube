@@ -41,10 +41,10 @@ stream: false
 remux: false
 
 # MP3 bitrate when converting (in kbit/s)
-audioBitrate: 128
+audioBitrate: 320
 
 # App name
-appName: AllTube Download
+appName: BB-Downloader
 
 # Generic formats supported by youtube-dl
 genericFormats:
